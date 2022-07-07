@@ -1,0 +1,1 @@
+{"version":3,"sources":["_setting.scss"],"names":[],"mappings":"AAAA,KACI,MAAA,MACA,OAAA,EAAA,KAEJ,MACI,QAAA,aACA,MAAA,MAEJ,SACI,MAAA","file":"main.min.css","sourcesContent":["form {\r\n    width: 400px;\r\n    margin: 0 auto;\r\n}\r\nlabel {\r\n    display: inline-block;\r\n    width: 150px;\r\n}\r\ntextarea {\r\n    width: 100%;\r\n}"]}
